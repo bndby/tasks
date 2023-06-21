@@ -39,7 +39,7 @@ Node.js используется для создания веб-серверов
     
 ## Материалы
 - [Введение в node.js](http://imnotgenius.com/vvedeniya-v-node-js/)
-- [Гайд по Node.js](https://nodejsdev.ru/guide/)
+- [Гайд по Node.js](https://nodejsdev.ru/guides/)
 - [Скринкаст по Node.js](https://learn.javascript.ru/screencast/nodejs)
 - [Создание первого приложения на Node](https://webref.ru/dev/first-node-app)
 - [Руководство по Node.js - metanit](https://metanit.com/web/nodejs/)
